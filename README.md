@@ -14,6 +14,10 @@ run ```pip install -r requirements.txt```
 to train the model run ```python3.12 train.py``
 
 ## 🙏 Acknowledgements
+An Amazing papers on the differenciation of Matricies and etc... 
+    --https://cs231n.stanford.edu/vecDerivs.pdf (liked this one better in my opinion)
+    --https://explained.ai/matrix-calculus/
+
     
 
 
